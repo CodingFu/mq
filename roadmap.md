@@ -7,14 +7,14 @@
 ### Usage:
 
 ```javascript
- mq(query [, allowedAttributes]);
+  mq(query [, allowedAttributes]);
 ```
 
 ### Example:
  
 ```json
   var query = {
-    "name": "john"
+    "name": "john",
     "surname": "doe"
   };
   var allowedAttributes = ["name"];
