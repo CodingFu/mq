@@ -1,0 +1,19 @@
+{
+  "name": "mq",
+  "version": "0.0.0",
+  "description": "Translates http query string to mongoose query object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CodingFu/mq.git"
+  },
+  "keywords": [
+    "mongo",
+    "query"
+  ],
+  "author": "Seva Rybakov",
+  "license": "BSD"
+}
