@@ -2,7 +2,7 @@
 
 ## 0.0 Initial Commit
 
-## 0.1 Really simple transformation with optional fields selection
+## 0.1 Really simple transformation with optional field selection
 
 ### Usage:
 
