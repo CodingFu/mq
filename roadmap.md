@@ -12,7 +12,7 @@
 
 ### Example:
  
-```json
+```jquery
   var query = {
     "name": "john",
     "surname": "doe"
