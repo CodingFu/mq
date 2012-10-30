@@ -2,19 +2,19 @@
 
 ## 0.0 Initial Commit
 
-## 0.1 Really simple transformation with optional fields selection
+## 0.1 Really simple transformation with optional field selection
 
 ### Usage:
 
 ```javascript
- mq(query [, allowedAttributes]);
+  mq(query [, allowedAttributes]);
 ```
 
 ### Example:
  
-```json
+```jquery
   var query = {
-    "name": "john"
+    "name": "john",
     "surname": "doe"
   };
   var allowedAttributes = ["name"];
